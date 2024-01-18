@@ -5,3 +5,5 @@ Matplotlib's versatility shows through in its seamless handling of intricate plo
 This interpolation process estimates resistivity values at unsampled locations based on their proximity to known data points, resulting in a seamless representation of resistivity distribution across the surveyed area. The script's integration of interpolation with matplotlib's extensive customization options demonstrates Python's strength in providing a comprehensive and flexible environment for geophysical data exploration and visualization. 
 
 Geophysicists can effectively communicate their findings and insights to the scientific community, utilizing state-of-the-art visualization techniques while incorporating advanced interpolation methods for a more comprehensive understanding of corrosion susceptibility patterns.
+
+Note : Geophysical data and project boundary coming from the space.
